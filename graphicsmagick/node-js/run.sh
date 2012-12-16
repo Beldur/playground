@@ -1,0 +1,1 @@
+rm -f test-thumb*  && node resize.js  && ls -al

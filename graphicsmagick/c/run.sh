@@ -1,0 +1,1 @@
+make clean all && ./resize && ls -al
